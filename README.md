@@ -1,8 +1,8 @@
 # Đề số 4 – Thực hành Linux Shell & Python
 ## Thông tin sinh viên
-Họ và tên: Nguyễn Thị Thanh Hằng
-Mã sinh viên: 2300491
-Môn học: Linux và phần mềm mã nguồn mở
+ * Họ và tên: Nguyễn Thị Thanh Hằng
+ * Mã sinh viên: 2300491
+ * Môn học: Linux và phần mềm mã nguồn mở
 ## Mô tả
 
 Bài thực hành gồm 5 câu, kết hợp thao tác với file CSV, lệnh Linux Shell, script Bash và chương trình Python.
